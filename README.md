@@ -45,7 +45,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/madhukarthieksiramsetti/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
@@ -61,7 +61,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhukarthiekSiramsetti&layout=compact&theme=tokyonight)
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/MadhukarthiekSiramsetti/MadhukarthiekSiramsetti/blob/output/github-contribution-grid-snake.svg)
