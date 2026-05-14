@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 📊 Senior Marketing Analyst with experience in performance marketing
+- 📊 Senior Marketing Specialist with experience in performance marketing
 - 📈 Passionate about data analytics and visualization
 - 🧠 Learning advanced SQL, Python & Machine Learning
 - 📉 Experienced in Google Ads & Meta Ads analytics
-- 📍 Based in India
+- 📍 Based in Bangalore
 
 ---
 
